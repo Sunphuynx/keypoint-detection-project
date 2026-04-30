@@ -1,9 +1,14 @@
 # Keypoint Detection & Feature Extraction
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.9%2B-green.svg)](https://opencv.org/)
+[![scikit-image](https://img.shields.io/badge/scikit--image-Latest-yellow.svg)](https://scikit-image.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Latest-orange.svg)](https://mediapipe.dev/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blueviolet.svg)](https://matplotlib.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-lightgrey.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific--Computing-ff69b4.svg)](https://numpy.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-Image--Processing-informational.svg)](https://python-pillow.org/)
 
 ## 📖 Mô tả dự án (Project Description)
 Dự án học thuật này tập trung vào bài toán **Keypoint Detection** (Phát hiện điểm đặc trưng) trong lĩnh vực **Computer Vision** (Thị giác máy tính). Mục tiêu chính là xây dựng một ứng dụng trực quan để trích xuất và so sánh hiệu năng của các thuật toán phát hiện điểm đặc trưng cổ điển cũng như các phương pháp dựa trên Deep Learning (Học sâu). 

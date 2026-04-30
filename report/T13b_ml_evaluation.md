@@ -1,0 +1,1 @@
+(T13b - Lan Thanh): MediaPipe + LoG/DoH + evaluation

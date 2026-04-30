@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model weights (PyTorch, etc.)
+*.pt
+*.pth
+
+# Data
+data/large_files/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Streamlit secrets
+.streamlit/secrets.toml
